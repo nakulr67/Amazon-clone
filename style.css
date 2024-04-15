@@ -101,7 +101,7 @@ span {
 }
 .panel {
   height: 39px;
-  width: 1280px;
+  width: auto;
   background: #222f3d;
   display: flex;
   text-align: inline;
